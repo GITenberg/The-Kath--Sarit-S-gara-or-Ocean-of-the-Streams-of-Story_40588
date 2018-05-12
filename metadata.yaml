@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '40719'
     url: http://www.gutenberg.org/2009/agents/40719
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40588#The-Kath--Sarit-S-gara-or-Ocean-of-the-Streams-of-Story
 gutenberg_issued: '2012-08-26'
 gutenberg_type: Text
 identifiers:
