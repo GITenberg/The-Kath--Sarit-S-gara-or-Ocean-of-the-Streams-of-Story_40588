@@ -1,0 +1,36 @@
+_repo: The-Kath--Sarit-S-gara-or-Ocean-of-the-Streams-of-Story_40588
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Tawney, C. H. (Charles Henry)
+    alias: Tawney, Charles Henry
+    birthdate: 1838
+    deathdate: 1922
+    gutenberg_agent_id: '40720'
+    url: http://www.gutenberg.org/2009/agents/40720
+covers:
+- cover_type: archival
+  image_path: 40588-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Somadeva Bhatta, active 11th century
+    alias: Bhatta, Somadeva
+    gutenberg_agent_id: '40719'
+    url: http://www.gutenberg.org/2009/agents/40719
+description: ''
+gutenberg_issued: '2012-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- India'
+- !lcc 'PK'
+- !lcsh 'Folk literature -- Themes, motives'
+- !lcsh 'India -- Social life and customs'
+- !lcsh 'Hindu mythology'
+title: The Kathá Sarit Ságara; or, Ocean of the Streams of Story
+url: http://www.gutenberg.org/ebooks/40588
